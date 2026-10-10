@@ -49,6 +49,7 @@ The dataset is highly imbalanced because fraudulent transactions represent only 
 
 PostgreSQL was used to prepare and analyze the dataset through SQL queries.
 
+
 ### Key Analysis Areas
 
 1. Total and fraudulent transaction counts.
@@ -66,6 +67,10 @@ SQL techniques include aggregate functions, conditional logic, filtering, groupi
 
 The interactive dashboard presents key performance indicators and transaction patterns in a visual format.
 <img width="980" height="550" alt="Screenshot 2026-10-08 193807" src="https://github.com/user-attachments/assets/06b26999-b827-4501-af83-3a54e6db8529" />
+<img width="981" height="548" alt="Screenshot 2026-10-08 193829" src="https://github.com/user-attachments/assets/ba26e291-32c6-46dc-84f5-509bfab0860a" />
+<img width="979" height="546" alt="Screenshot 2026-10-08 193855" src="https://github.com/user-attachments/assets/765dd373-5eda-4a79-a068-1f59610bda71" />
+
+
 
 
 ### Key KPIs
