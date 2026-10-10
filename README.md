@@ -65,6 +65,8 @@ SQL techniques include aggregate functions, conditional logic, filtering, groupi
 ## 📈 Power BI Dashboard
 
 The interactive dashboard presents key performance indicators and transaction patterns in a visual format.
+<img width="980" height="550" alt="Screenshot 2026-10-08 193807" src="https://github.com/user-attachments/assets/06b26999-b827-4501-af83-3a54e6db8529" />
+
 
 ### Key KPIs
 
