@@ -48,6 +48,7 @@ The dataset is highly imbalanced because fraudulent transactions represent only 
 ## 🗄️ PostgreSQL Analysis
 
 PostgreSQL was used to prepare and analyze the dataset through SQL queries.
+- <a href="https://github.com/mdwasiquraishi-netizen/Credit-Card-Fraud-Analysis/blob/main/creditcard%20SQL%20QUERY.sql">SQL QUERY</a>
 
 
 ### Key Analysis Areas
